@@ -1,5 +1,5 @@
 # "Practical Machine Learning -Project"
-Author: "Farzad Ravari"
+Author: "Ardak Sagyn"
 
 # Executive Summary
 This project attempts to evelauate effect of using the devices such as Jawbone Up, Nike FuelBand, and Fitbit for collecting data information during activities for measurment of vital signe and health factors for modification of health behavior and enhance activities . Data collected from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. Exploratory analysis of data includes implementation of random forests for cross predication befor and after cross validation and test set with removal of columns less tha 60% of data and thereforedata validation and building a model with cross validation and predication .
